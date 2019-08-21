@@ -3,11 +3,11 @@ This tool makes slack party emojis.
 
 Before:
 
-![before](input_data/Portrait_Placeholder.jpg?raw=true | width=100)
+![](/input_data/Portrait_Placeholder.jpg)
 
 After:
 
-![after](output_data/Portrait_Placeholder.jpg.gif?raw=true | width=100)
+![](/output_data/Portrait_Placeholder.jpg.gif)
 
 ## Requirements
 - Must have docker installed
