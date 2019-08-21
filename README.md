@@ -3,11 +3,11 @@ This tool makes slack party emojis.
 
 Before:
 
-![Alt text](input_data/Portrait_Placeholder.jpg?raw=true "Optional Title" | width=100)
+![before](/input_data/Portrait_Placeholder.jpg?raw=true "Optional Title" | width=100)
 
 After:
 
-![Alt text](output_data/Portrait_Placeholder.jpg.gif?raw=true "Optional Title" | width=100)
+![after](/output_data/Portrait_Placeholder.jpg.gif?raw=true "Optional Title" | width=100)
 
 ## Requirements
 - Must have docker installed
